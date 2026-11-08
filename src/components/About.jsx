@@ -8,13 +8,7 @@ export default function About() {
         <Reveal>
           <div className="glass spot h-full rounded-3xl p-7 sm:p-9" style={{ '--accent': '#a78bfa' }}>
             <div className="space-y-5 text-base leading-relaxed text-slate-400 sm:text-lg">
-              <p>
-                I'm an MCA graduate from Osmania University who builds AI systems that plan, retrieve, reason and act. My work spans AI agents, automation, and the frontend and backend that put them in front of users.
-              </p>
-              <p>
-                After completing the AI Specialist Program at Full Stack Academy in 2026, I've been shipping projects around agentic workflows and RAG applications, from a LangGraph complaint-triage pipeline to a multi-agent research assistant grounded in real documents.
-              </p>
-              <p>
+             <p>
                 Right now I'm a Generative AI intern at Infotact Solutions, working on OmniSight, a multimodal agent that heals broken UIs and runs RPA workflows. I'm looking for an AI Engineer or AI Agent Developer role where I can keep building practical, intelligent systems.
               </p>
             </div>
